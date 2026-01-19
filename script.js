@@ -8,8 +8,20 @@ const dictionary = [
   { en: "car", pl: "samochód" },
   { en: "milk", pl: "mleko" },
   { en: "tree", pl: "drzewo" },
-  { en: "bread", pl: "chleb" }
-];
+  { en: "bread", pl: "chleb" },
+  { en: "him", pl: "on"},
+  { en: "her", pl: "ona"},
+  { en: "man", pl: "człowiek"},
+  { en: "coffee", pl: "kawa"},
+  { en: "woman", pl: "kobieta"},
+  { en: "boy", pl: "chłopiec"},
+  { en: "girl", pl: "dziewczyna"},
+  { en: "dream", pl: "marzenie"},
+  { en: "fruit", pl: "owoc"},
+  { en: "bathroom", pl: "łazienka"},
+  { en: "office", pl: "biuro"},
+  { en: "animal", pl: "zwierzę"},
+  ];
 
 
 //const words = [
